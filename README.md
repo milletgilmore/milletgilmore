@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milletgilmore
 - 🌱 I’m a full stack software engineer, proficient in HTML, CSS, Javascript, Node.JS, React, and MongoDB
 - 👀 I’m interested in solving complex problems with technology to help startups innovate
-- 💞️ I’m create full stack web applications for businesses and enjoy collaborating on open source projects
+- 💞️ I create full stack web applications for businesses and enjoy collaborating on open source projects
 - 📫 How to reach me -> check out my portfolio here: milletgilmore.com
 
 <!---
