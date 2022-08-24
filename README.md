@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **milletgilmore@gmail.com**
 
-- 🖥️ Check out my freelancing website at **milletgilmore.com**
+- 🖥️ Check out my freelancing website at **[milletgilmore.com](url)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
