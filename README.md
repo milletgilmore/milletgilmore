@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Millet Gilmore</h1>
 <h3 align="center">A passionate full-stack software engineer</h3>
 
-- 🔭 I’m currently working on a **a bulk food delivery service**
+- 🔭 I’m currently working on a **bulk food delivery service**
 
 - 👯 I’m looking to collaborate on **projects that create a positive impact!**
 
